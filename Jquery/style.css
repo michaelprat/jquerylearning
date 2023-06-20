@@ -1,0 +1,15 @@
+body{
+   
+}
+.header{
+
+
+font-size:2rem;
+color:black;
+position: absolute;
+left: 25%;
+bottom: 90%;
+}
+.margin50{
+   margin-left:25px;
+}
